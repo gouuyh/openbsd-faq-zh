@@ -1,0 +1,27 @@
+body {
+    font-family: 'Noto Serif', 'Noto Serif SC', 'Times New Roman', 'Open Sans', sans-serif;
+}
+
+.content p, h4, h5, h6, ul, ol {
+    line-height: 1.6em;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+.content p {
+    text-indent: 2em;
+}
+
+.content h2 {
+    margin-top: 19px;
+    margin-bottom: 19px;
+}
+
+.content h3 {
+    margin-top: 12px;
+    margin-bottom: 12px;
+}
+
+.content li p {
+    text-indent: 0;
+}

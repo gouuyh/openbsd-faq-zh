@@ -1,0 +1,10 @@
+[book]
+authors = ["OpenBSD Community 著", "gouuyh 译"]
+language = "zh-CN"
+src = "src"
+title = "OpenBSD FAQ 中文版（个人翻译）"
+
+[output.html]
+additional-css = ["css/custom.css"]
+git-repository-url = "https://github.com/gouuyh/openbsd-faq-zh"
+git-repository-icon = "fab-github"
